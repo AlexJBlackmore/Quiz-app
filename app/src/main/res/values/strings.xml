@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="Countdown_length_secs">3</string>
+    <string name="you_scored_txt">You scored:</string>
+    <string name="play_again_txt">Play again!</string>
+    <string name="play_button">Play</string>
+    <string name="welcome_msg">Welcome!</string>
+    <string name="addition_chkbx">Addition</string>
+    <string name="subtraction_chkbx">Subtraction</string>
+    <string name="quiz_me_on_msg">Quiz me on...</string>
+</resources>
